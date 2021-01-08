@@ -76,35 +76,4 @@
     color:black;
    }
 
-  .nwm{
-      padding-top: 0px;
-      padding-right: 80px;
-      padding-bottom: 0px;
-      padding-left: 80px;
-    }
-  p{
-    position:relative;
-    text-align: left;
-    font-weight: bold;
-    font-size: 38px;
-  }
-  #jak {
-    table-layout: fixed; 
-    width: 100%;
-    border-collapse: collapse;
-    border:0px;
-    position:relative;
-    margin: 0 auto;
-    text-align:center;
-    border:3px solid #870004;
-    
-    }
-  .nwm thead{
-  border-bottom:3px solid #870004;
-  text-align:center;
-  font-weight: bold;
-  font-size: 23px;
-  }
-  footer{
-  text-align: center
-  }
+  
