@@ -16,11 +16,11 @@
 #tabela1 {
   background-color: whitesmoke;
   width: 48%;
-  height: 36px;
+  height: 38px;
   float: left;
   position:relative;
   text-align:center;
-  font-size: 2vw;
+  font-size: 1.5vw;
   font-weight: 500;
   border:3px solid #870004;
   line-height: 36px;
@@ -32,11 +32,11 @@
 #tabela2{
 background-color: lightgray;
 width: 48%;
-height: 36px;
+height: 38px;
 float: left;
 position:relative;
 text-align:center;
-font-size: 2vw;
+font-size: 1.5vw;
 font-weight: 500;
 border:3px solid #870004;
 line-height: 36px;
@@ -44,7 +44,7 @@ line-height: 36px;
 #pustka{
   float: left;
   width: 2%;
-  height: 39px;
+  height: 41px;
 
   border-bottom: 3px solid #870004;
 }
