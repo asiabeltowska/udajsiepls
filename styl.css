@@ -16,7 +16,12 @@
 #logo{
   float: left;
   width: 25%;
+}
+#logo img{
 
+  width: 100px;
+  border-radius: 100%;
+  vertical-align: middle;
 }
 #nazwa{
   float: left;
