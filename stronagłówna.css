@@ -15,7 +15,7 @@
 }
 #tabela1 {
   background-color: whitesmoke;
-  width: 45%;
+  width: 48%;
   height: 36px;
   float: left;
   position:relative;
@@ -31,7 +31,7 @@
     }
 #tabela2{
 background-color: lightgray;
-width: 45%;
+width: 48%;
 height: 36px;
 float: left;
 position:relative;
@@ -43,7 +43,7 @@ line-height: 36px;
 }
 #pustka{
   float: left;
-  width: 1%;
+  width: 2%;
   height: 39px;
 
   border-bottom: 3px solid #870004;
