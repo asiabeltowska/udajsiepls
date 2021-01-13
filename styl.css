@@ -19,10 +19,9 @@
   width: 25%;
 }
 #logo img{
-
   width: 78px;
   border-radius: 100%;
-  vertical-align: middle;
+  vertical-align:middle
 }
 #nazwa{
   float: left;

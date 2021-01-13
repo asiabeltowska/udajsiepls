@@ -16,7 +16,7 @@
 }
 #tabela1 {
   background-color: whitesmoke;
-  width: 48%;
+  width: 45%;
   height: 38px;
   float: left;
   position:relative;
@@ -32,7 +32,7 @@
     }
 #tabela2{
 background-color: lightgray;
-width: 48%;
+width: 45%;
 height: 38px;
 float: left;
 position:relative;
@@ -51,7 +51,7 @@ line-height: 36px;
 }
 #lista{
 clear: both;
-width: 93%;
+width: 90%;
 text-align: center;
 vertical-align: middle;
 position: relative;
